@@ -6,7 +6,7 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Com o avanço da IA e a internet o futuro pode ser mais tecnológico e aumentar o uso de máquinas substituindo algumas pessoas de muitos cargos de trabalho, essa ideia pode ser?",
+        enunciado: "Com o avançoda IA e a internet o futuro pode ser mais tecnológico e aumentar o uso de máquinas substituindo algumas pessoas de muitos cargos de trabalho, essa ideia pode ser?",
         alternativas: [
             {
                 texto: "Extraordinário!",
