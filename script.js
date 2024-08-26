@@ -44,7 +44,7 @@ const perguntas = [
                 afirmacao:"afirmacao"
             }
             
-        ]s
+        ]
     },
     {
         enunciado: "Você precisa montar uma imagem utilizando a IA como base. E agora?",
